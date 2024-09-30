@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  margin-top: 50px;
+  margin: 20px;
+  /* margin: auto; */
+  padding: 20px;
+}
+
+.color-box {
+  font-size: 20px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+}
+.button-box {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-direction: row;
+  border-radius:  8px;
+}
+.button-G { 
+   padding: 5px;
+   margin: 2px;
+   border-radius: 5px;
+   width: auto;
+   /* background-color: #4CAF50; */
+   text-align: center;
+   }
